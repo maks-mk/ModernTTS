@@ -54,7 +54,7 @@ GEMINI_API_KEY=your_actual_api_key_here
 2. 💾 Сохраненные в приложении ключи
 3. 📄 Резервная копия (JSON файл)
 
-**Получить API клю��:** https://aistudio.google.com/app/apikey
+**Получить API ключ:** https://aistudio.google.com/app/apikey
 
 ### 3. Запуск приложения
 
