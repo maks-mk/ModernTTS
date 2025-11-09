@@ -1,0 +1,12 @@
+# Основные зависимости для TTS приложения
+PyQt6>=6.0.0
+qtawesome>=1.0.0
+google-genai>=0.1.0
+pydub>=0.25.0
+python-dotenv>=1.0.0
+
+# Дополнительные зависимости для аудио обработки
+# ffmpeg (устанавливается отдельно)
+# Для Windows: скачать с https://ffmpeg.org/download.html
+# Для Linux: sudo apt install ffmpeg
+# Для macOS: brew install ffmpeg
